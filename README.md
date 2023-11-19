@@ -30,9 +30,10 @@ In this impactful project, I'm focusing on building a robust model to detect fra
 - **Code:** Implementation details can be found in the `/` directory.
 - **Data:** The necessary datasets are stored in the `data/` directory.
 -->
-### 3. Customer Churn Prediction
+### 3. Spam SMS Detection
 
-In this customer-centric project, I'll develop a model to predict customer churn for a subscription-based service or business. By leveraging historical customer data, including usage behavior and demographics, I plan to explore algorithms like Logistic Regression, Random Forests, and Gradient Boosting. Understanding customer behavior and predicting churn is a crucial aspect of business intelligence.
+Fraudulent SMS messages often attempt to deceive users into revealing sensitive information or engaging in malicious activities. Traditional rule-based methods may not effectively capture the dynamic nature of fraudulent content.<br>
+In this project, the goal is to develop a model for detecting fraudulent SMS messages using the TF-IDF (Term Frequency-Inverse Document Frequency) technique and the Naive Bayes algorithm.  Fraudulent SMS messages can pose significant security risks and negatively impact users' experiences. By leveraging natural language processing and machine learning, this project aims to identify and filter out fraudulent messages, enhancing the overall security of communication systems.
 <!--
 - **Folder:** `customer_churn_prediction`
 - **Code:** Implementation details can be found in the `/` directory.
